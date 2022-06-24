@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Botton/app/src/main/res/drawable/bgr_chat_input.xml" value="0.148" />
+        <entry key="..\:/Botton/app/src/main/res/drawable/bgr_chat_view.xml" value="0.148" />
+        <entry key="..\:/Botton/app/src/main/res/drawable/bgr_list_task.xml" value="0.206" />
+        <entry key="..\:/Botton/app/src/main/res/drawable/bgr_req_mess.xml" value="0.148" />
+        <entry key="..\:/Botton/app/src/main/res/drawable/bgr_send_mess.xml" value="0.148" />
+        <entry key="..\:/Botton/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Botton/app/src/main/res/layout/activity_splash.xml" value="0.29375" />
+        <entry key="..\:/Botton/app/src/main/res/layout/dialod_add.xml" value="0.29375" />
+        <entry key="..\:/Botton/app/src/main/res/layout/dialog_task.xml" value="0.29270833333333335" />
+        <entry key="..\:/Botton/app/src/main/res/layout/fragment_chart.xml" value="0.20208333333333334" />
+        <entry key="..\:/Botton/app/src/main/res/layout/fragment_four.xml" value="0.29375" />
+        <entry key="..\:/Botton/app/src/main/res/layout/fragment_mess.xml" value="0.2796875" />
+        <entry key="..\:/Botton/app/src/main/res/layout/fragment_one.xml" value="0.29375" />
+        <entry key="..\:/Botton/app/src/main/res/layout/fragment_task.xml" value="0.29375" />
+        <entry key="..\:/Botton/app/src/main/res/layout/fragment_three.xml" value="0.29375" />
+        <entry key="..\:/Botton/app/src/main/res/layout/fragment_two.xml" value="0.2796875" />
+        <entry key="..\:/Botton/app/src/main/res/layout/list_item.xml" value="0.29375" />
+        <entry key="..\:/Botton/app/src/main/res/layout/rep_mess.xml" value="0.29375" />
+        <entry key="..\:/Botton/app/src/main/res/layout/send_mess.xml" value="0.25" />
+        <entry key="..\:/Botton/app/src/main/res/menu/search.xml" value="0.29375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
